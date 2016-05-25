@@ -1,0 +1,1 @@
+Honestly do whatever the hell you want with this. Visual Studio wrote more lines of code than I did and this was just made by quick googling. I'm not gonna care if you steal my 5 lines of code, that is up to your own morals.
