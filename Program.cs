@@ -1,9 +1,10 @@
 ﻿using Microsoft.Win32;
+using System;
 
 namespace TerrariaBunny
 {
     ///<Summary>This program may be a few lines, but it is created with transparency in mind as an executable will be distributed.</Summary>
-    private static class UserInterface 
+    static class UserInterface 
     {
         private static void Main(string[] args)
         {
